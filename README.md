@@ -1,4 +1,4 @@
-#### Get familiar with Sklearn pipeline
+### About Sklearn pipeline
 
 I followed sklearn pipeline turtorials and explored more on chaining different steps together. 
 
